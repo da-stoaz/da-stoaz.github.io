@@ -1,1 +1,0 @@
-import{_ as o,c as t,r as n,a as s,o as a}from"./DURv3Nqg.js";const r={},c=s("h1",null,"Login Layout",-1);function l(e,_){return a(),t("div",null,[c,n(e.$slots,"default")])}const f=o(r,[["render",l]]);export{f as default};
