@@ -1,0 +1,77 @@
+{
+    "appName" : "Stoaz' used cars",
+    "cars" : [
+        {
+            "id" : 1,
+            "manufacturer" : "Toyota",
+            "model" : "Corolla",
+            "year" : 2020,
+            "seats" : 5,
+            "hp": 120,
+            "km": 10000,
+            "price" : 15000,
+            "img": "https://www.auto-data.net/images/f82/Toyota-Corolla-XII-E210.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        },
+        {
+            "id" : 2,
+            "manufacturer" : "Volkswagen",
+            "model" : "Golf",
+            "year" : 2020,
+            "seats" : 5,
+            "hp": 110,
+            "km": 500000,
+            "price" : 1800,
+            "img": "https://www.auto-data.net/images/f63/Volkswagen-Golf-VI-5-door.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        },
+        {
+            "id" : 3,
+            "manufacturer" : "BMW",
+            "model" : "X5",
+            "year" : 2017,
+            "seats" : 5,
+            "hp": 150,
+            "km": 10000,
+            "price" : 25000,
+            "img": "https://www.auto-data.net/images/f77/BMW-X5-F15.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        },
+        {
+            "id" : 4,
+            "manufacturer" : "Mercedes",
+            "model" : "C-Class",
+            "year" : 2019,
+            "seats" : 5,
+            "hp": 130,
+            "km": 20000,
+            "price" : 27000,
+            "img": "https://www.auto-data.net/images/f125/Mercedes-Benz-C-class-W206.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        },
+        {
+            "id" : 5,
+            "manufacturer" : "Audi",
+            "model" : "A4",
+            "year" : 2018,
+            "seats" : 5,
+            "hp": 224,
+            "km": 50000,
+            "price" : 32000,
+            "img": "https://www.auto-data.net/images/f0/Audi-A4-Avant-B9-8W-facelift-2018.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        },
+        {
+            "id" : 6,
+            "manufacturer": "Porsche",
+            "model" : "911",
+            "year" : 2022,
+            "seats" : 2,
+            "hp": 650,
+            "km": 22000,
+            "price" : 120000,
+            "img": "https://www.auto-data.net/images/f112/Porsche-911-992.jpg",
+            "email": "ralph.jank@sz-ybbs.ac.at"
+        }
+    ]
+}
